@@ -19,7 +19,7 @@
     }
 
 }
-
+@media screen and (min-width:1024px){
 body {
     display: flex;
     background-color: rgb(34,34,34);
@@ -45,4 +45,5 @@ footer{
     display: flex;
     color: white;
     justify-content: center;
+}
 }
