@@ -17,6 +17,9 @@ body{
   flex-direction: column;
   animation: flutuar 1.5s infinite ease-in-out;
 }
+img{
+    width: 400px;
+}
 @keyframes flutuar{
     50% {
         transform: translateY(-10%);
